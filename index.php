@@ -30,11 +30,11 @@
 	<div class="container">
 		<h1>Welcome at Mathedia</h1><br />
 		On these pages you find a lot of <strong>problems in higher mathematics</strong> with their <strong>complete solution</strong>.<br /><br />
-		To visit the english version hit <a href="en/index.php" class="btn btn-success btn-xs">English</a><br />
+		To visit the english version hit <a href="/en/index.php" class="btn btn-primary btn-xs">English</a><br />
 		<br /><br /><br />
 		<h1>Willkommen auf Mathedia</h1><br />
 		Auf diesen Seiten findest Du viele <strong>Aufgaben aus der Höheren Mathematik</strong> zusammen mit <strong>vollständigen Lösungen</strong>.<br /><br />
-		Zur deutschen Version kommst du hier <a href="de/index.php" class="btn btn-success btn-xs">Deutsch</a>
+		Zur deutschen Version kommst du hier <a href="/de/index.php" class="btn btn-primary btn-xs">Deutsch</a>
 		<br /><br /><br />
 	</div>
 	
