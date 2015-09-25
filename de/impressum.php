@@ -6,11 +6,10 @@ include $_SERVER["DOCUMENT_ROOT"]."de/header.php";
 	
 <div class="container">
 
-<p><h1>Datenschutzerkl&auml;rung</h1></p>
-<p><h2>
-Angaben gemäß § 5 TMG,<br />
+<p><h1>
+Angaben gem&auml;&szlig; § 5 TMG,<br />
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
-</h2></p>
+</h1></p>
 
 <table class="table table-striped">
 <tbody>

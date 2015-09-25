@@ -34,7 +34,7 @@
 	</head>
 	<body>
 
-	<nav class="navbar navbar-default">
+	<nav class="navbar navbar-inverse">
 	  <div class="container-fluid">
 		<div class="navbar-header">
 			<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
@@ -51,9 +51,7 @@
 				<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Differentialgleichungen <span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
-					<li><a href="/de/differentialgleichungen/variation-der-konstanten-1.php">Variation der Konstanten 1</a></li>
-					<li><a href="#">Another action</a></li>
-					<li><a href="#">Something else here</a></li>
+					<li><a href="/de/differentialgleichungen/variation_der_konstanten_1.php">Variation der Konstanten 1</a></li>
 				</ul>
 				</li>
 			</ul>

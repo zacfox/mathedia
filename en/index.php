@@ -5,7 +5,7 @@ include $_SERVER["DOCUMENT_ROOT"]."en/header.php";
 ?>
 
 	<div class="container">
-		<div style="background:#008cba; color:white !important" class="jumbotron">
+		<div style="background:#008cba; color:white; text-align:center !important" class="jumbotron">
 			<h1>Mathedia</h1>
 			<h2>higher mathematics problems and solutions</h2>
 		</div>
