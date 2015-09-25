@@ -11,7 +11,7 @@
 					?></title>
 					
 	<!-- Bootstrap -->
-	<link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+	<link href="../../bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -43,7 +43,7 @@
 				<span class="icon-bar"></span>
 				<span class="icon-bar"></span>
 			</button>
-		<a class="navbar-brand" href="/index.php">Mathedia</a>
+		<a class="navbar-brand" href="index.php">Mathedia</a>
 		</div>
 
 		<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -51,7 +51,7 @@
 				<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Differentialgleichungen <span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
-					<li><a href="/de/differentialgleichungen/variation-der-konstanten-1.php">Variation der Konstanten 1</a></li>
+					<li><a href="/mathedia/de/differentialgleichungen/variation-der-konstanten-1.php">Variation der Konstanten 1</a></li>
 					<li><a href="#">Another action</a></li>
 					<li><a href="#">Something else here</a></li>
 				</ul>

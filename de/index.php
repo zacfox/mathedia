@@ -1,7 +1,7 @@
 <?php
 // Die Variable $title wird vor der Einbindung von header.php definiert damit sie in dieser Datei verügbar ist
 $title = "Aufgaben und L&ouml;sungen zur H&ouml;heren Mathematik";
-include "header.php";
+include $_SERVER["DOCUMENT_ROOT"]."de/header.php";
 ?>
 
 	<div class="container">
@@ -12,5 +12,5 @@ include "header.php";
 	</div>
 	
 <?php
-include "footer.php";
+include $_SERVER["DOCUMENT_ROOT"]."de/footer.php";
 ?>

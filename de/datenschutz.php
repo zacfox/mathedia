@@ -1,7 +1,7 @@
 <?php
 // Die Variable $title wird vor der Einbindung von header.php definiert damit sie in dieser Datei verügbar ist
 $title = "Datenschutz";
-include "header.php";
+include $_SERVER["DOCUMENT_ROOT"]."de/header.php";
 ?>
 	
 <div class="container">
@@ -51,5 +51,5 @@ Die Nutzer k&ouml;nnen die Installation der Cookies durch eine entsprechende Ein
 </div>
 	
 <?php
-include "footer.php";
+include $_SERVER["DOCUMENT_ROOT"]."de/footer.php";
 ?>
