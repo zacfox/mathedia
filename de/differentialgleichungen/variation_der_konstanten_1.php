@@ -1,6 +1,6 @@
 <?php
-$title = "Variation of parameters 1";
-include $_SERVER["DOCUMENT_ROOT"]."en/header.php";
+$title = "Variation der Konstanten 1";
+include $_SERVER["DOCUMENT_ROOT"]."de/header.php";
 ?>
 
 <div class="container">
@@ -38,5 +38,5 @@ $$\begin{align*}y &amp;= K(x)\cdot e^{3x} \\\\ &amp;= ((x-1)\cdot e^x +C)\cdot e
 </div>
 
 <?php
-include $_SERVER["DOCUMENT_ROOT"]."en/footer.php";
+include $_SERVER["DOCUMENT_ROOT"]."de/footer.php";
 ?>
