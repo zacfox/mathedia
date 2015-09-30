@@ -1,7 +1,7 @@
 <?php
 // Die Variable $title wird vor der Einbindung von header.php definiert damit sie in dieser Datei verügbar ist
-$title = "Impressum";
-include $_SERVER["DOCUMENT_ROOT"]."de/header.php";
+$title = "site notice";
+include $_SERVER["DOCUMENT_ROOT"]."en/header.php";
 ?>
 	
 <div class="container">
@@ -30,5 +30,5 @@ Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 </div>
 	
 <?php
-include $_SERVER["DOCUMENT_ROOT"]."de/footer.php";
+include $_SERVER["DOCUMENT_ROOT"]."en/footer.php";
 ?>
