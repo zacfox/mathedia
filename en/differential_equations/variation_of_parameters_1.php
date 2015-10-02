@@ -1,17 +1,22 @@
 <?php
 $title = "Variation of parameters 1";
+$description = "sample solution for the differential equation y'-3y=x * e^{4x}";
 include $_SERVER["DOCUMENT_ROOT"]."en/header.php";
 ?>
 
 <div class="container">
+<div class="row">
+
+<div class="col-xs-10">
 
 <h1>Variation of parameters 1</h1>
 
 <h2>Exercise:</h2>
+Find the general solution of the non-homogeneous differential equation
 $$y'-3y=x\cdot e^{4x}$$
 
 <h2>Solution:</h2>
-At first we need to solve the homogeneous equation, for example by separation of variables or by hard thinking:<br />
+At first we need to solve the homogeneous equation, for example by <strong>separation of variables</strong> or by hard thinking:<br />
 
 $$\begin{align*}y'-3y &= 0 \\ y_0 &= K\cdot e^{3x}\quad K\in\mathbb{R}\end{align*}$$<br />
 
@@ -35,6 +40,15 @@ To get the general solution of the non-homogeneous differential equation, we sub
 
 $$\begin{align*}y &amp;= K(x)\cdot e^{3x} \\\\ &amp;= ((x-1)\cdot e^x +C)\cdot e^{3x} \\\\ &amp;= (x-1)\cdot e^{4x}~+~C\cdot e^{3x}\end{align*}$$<br />
 
+</div>
+
+<div class="col-xs-2">
+
+<a href="/de/differentialgleichungen/variation_der_konstanten_1.php" class="btn btn-primary btn-xs">Deutsch</a><br />
+
+</div>
+
+</div>
 </div>
 
 <?php

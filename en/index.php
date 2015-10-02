@@ -1,6 +1,7 @@
 <?php
 // Die Variable $title wird vor der Einbindung von header.php definiert damit sie in dieser Datei ver&uuml;gbar ist
 $title = "higher mathematics problems and solutions";
+$description = "On Mathedia you find a lot of problems with complete solutions for all disciplines of higher mathematics. Exercises and preparations for exams";
 include $_SERVER["DOCUMENT_ROOT"]."en/header.php";
 ?>
 
