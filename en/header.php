@@ -89,6 +89,7 @@
 				<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Differential equations<span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
+					<li><a href="/en/differential_equations/separation_of_variables_1.php">Separation of variables 1</a></li>
 					<li><a href="/en/differential_equations/variation_of_parameters_1.php">Variation of parameters 1</a></li>
 				</ul>
 				</li>

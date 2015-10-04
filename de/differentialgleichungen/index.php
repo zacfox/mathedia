@@ -15,9 +15,17 @@ Eine Differentialgleichung ist eine Gleichung für eine gesuchte Funktion, in de
 Bei einer gew&ouml;hnlichen Differentialgleichung treten nur Ableitungen nach einer Variablen auf.
 Differentialgleichungen werden oft verwendet, um das &Auml;nderungsverhalten von Gr&ouml;ßen bei Vorg&auml;ngen in der Natur zu beschreiben.
 
+<h2>Trennung der Variablen</h2>
+
+<div class="btn-group-vertical">
+	<a href="/de/differentialgleichungen/trennung_der_variablen_1.php" class="btn btn-primary">x(t)' = 1+x(t)^2</a>
+</div>
+
 <h2>Variation der Konstanten</h2>
 
-<a href="/de/differentialgleichungen/variation_der_konstanten_1.php" class="btn btn-primary">y' - 3y = x * exp(4x)</a>
+<div class="btn-group-vertical">
+	<a href="/de/differentialgleichungen/variation_der_konstanten_1.php" class="btn btn-primary">y' - 3y = x * exp(4x)</a>
+</div>
 
 </div>
 

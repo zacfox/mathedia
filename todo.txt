@@ -1,0 +1,10 @@
+$title, $description ändern
+
+Seiteninhalt ändern
+
+Link zur englischen Seite ändern
+
+
+Link in die index.php der Kategorie einfügen
+
+Link in den header ins dropdownmenu einfügen
