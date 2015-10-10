@@ -19,12 +19,14 @@ Differentialgleichungen werden oft verwendet, um das &Auml;nderungsverhalten von
 
 <div class="btn-group-vertical">
 	<a href="/de/differentialgleichungen/trennung_der_variablen_1.php" class="btn btn-primary">x(t)' = 1+x(t)^2</a>
+	<a href="/de/differentialgleichungen/trennung_der_variablen_2.php" class="btn btn-primary">(x²+1) y' = 2x y²</a>
 </div>
 
 <h2>Variation der Konstanten</h2>
 
 <div class="btn-group-vertical">
 	<a href="/de/differentialgleichungen/variation_der_konstanten_1.php" class="btn btn-primary">y' - 3y = x * exp(4x)</a>
+	<a href="/de/differentialgleichungen/variation_der_konstanten_2.php" class="btn btn-primary">y' = -(y/x) + 1</a>
 </div>
 
 </div>

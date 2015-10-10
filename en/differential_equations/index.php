@@ -14,16 +14,18 @@ A differential equation is an equation that relates some function with its deriv
 An ordinary differential equation is an equation containing a function of only one independent variable and its derivatives.
 Differential equations are used to describe processes in nature involving varying quantities and their rates of change
 
-<h2>separation of variables</h2>
+<h2>Separation of variables</h2>
 
 <div class="btn-group-vertical">
 	<a href="/en/differential_equations/separation_of_variables_1.php" class="btn btn-primary">x(t)' = 1+x(t)^2</a>
+	<a href="/en/differential_equations/separation_of_variables_2.php" class="btn btn-primary">(x²+1) y' = 2x y²</a>
 </div>
 
 <h2>Variation of parameters</h2>
 
 <div class="btn-group-vertical">
 	<a href="/en/differential_equations/variation_of_parameters_1.php" class="btn btn-primary">y' - 3y = x * exp(4x)</a>
+	<a href="/en/differential_equations/variation_of_parameters_2.php" class="btn btn-primary">y' = -(y/x) + 1</a>
 </div>
 
 </div>

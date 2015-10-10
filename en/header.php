@@ -23,55 +23,55 @@
 			<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
 			<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
 		<![endif]-->
+		<!-- Piwik -->
+			<script type="text/javascript">
+			  var _paq = _paq || [];
+			  _paq.push(['trackPageView']);
+			  _paq.push(['enableLinkTracking']);
+			  (function() {
+				var u="//mathedia.com/piwik/";
+				_paq.push(['setTrackerUrl', u+'piwik.php']);
+				_paq.push(['setSiteId', 1]);
+				var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+				g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+			  })();
+			</script>
+			<noscript><p><img src="//mathedia.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+		<!-- End Piwik Code -->
+		<!-- Piwik Image Tracker-->
+			<noscript><img src="http://mathedia.com/piwik/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
+		<!-- End Piwik -->
+		<!-- Google Analytics Opt-out -->
+		<script>
+			// Set to the same value as the web property used on the site
+			var gaProperty = 'UA-45593496-2';
+
+			// Disable tracking if the opt-out cookie exists.
+			var disableStr = 'ga-disable-' + gaProperty;
+			if (document.cookie.indexOf(disableStr + '=true') > -1) {
+			  window[disableStr] = true;
+			}
+
+			// Opt-out function
+			function gaOptout() {
+			  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+			  window[disableStr] = true;
+			}
+		</script>
+		<!-- End Google Analytics Opt-out -->
+		<!-- Google Analytics -->
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+		  ga('create', 'UA-45593496-2', 'auto');
+		  ga('send', 'pageview');
+		</script>
+		<!-- End Google Analytics -->
 	</head>
 	<body>
-	<!-- Piwik -->
-		<script type="text/javascript">
-		  var _paq = _paq || [];
-		  _paq.push(['trackPageView']);
-		  _paq.push(['enableLinkTracking']);
-		  (function() {
-			var u="//mathedia.com/piwik/";
-			_paq.push(['setTrackerUrl', u+'piwik.php']);
-			_paq.push(['setSiteId', 1]);
-			var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-			g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-		  })();
-		</script>
-		<noscript><p><img src="//mathedia.com/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
-	<!-- End Piwik Code -->
-	<!-- Piwik Image Tracker-->
-		<noscript><img src="http://mathedia.com/piwik/piwik.php?idsite=1&rec=1" style="border:0" alt="" /></noscript>
-	<!-- End Piwik -->
-	<!-- Google Analytics Opt-out -->
-	<script>
-		// Set to the same value as the web property used on the site
-		var gaProperty = 'UA-45593496-2';
-
-		// Disable tracking if the opt-out cookie exists.
-		var disableStr = 'ga-disable-' + gaProperty;
-		if (document.cookie.indexOf(disableStr + '=true') > -1) {
-		  window[disableStr] = true;
-		}
-
-		// Opt-out function
-		function gaOptout() {
-		  document.cookie = disableStr + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
-		  window[disableStr] = true;
-		}
-	</script>
-	<!-- End Google Analytics Opt-out -->
-	<!-- Google Analytics -->
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-	  ga('create', 'UA-45593496-2', 'auto');
-	  ga('send', 'pageview');
-	</script>
-	<!-- End Google Analytics -->
 	<nav class="navbar navbar-inverse">
 	  <div class="container-fluid">
 		<div class="navbar-header">
@@ -90,7 +90,9 @@
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Differential equations<span class="caret"></span></a>
 				<ul class="dropdown-menu" role="menu">
 					<li><a href="/en/differential_equations/separation_of_variables_1.php">Separation of variables 1</a></li>
+					<li><a href="/en/differential_equations/separation_of_variables_2.php">Separation of variables 2</a></li>
 					<li><a href="/en/differential_equations/variation_of_parameters_1.php">Variation of parameters 1</a></li>
+					<li><a href="/en/differential_equations/variation_of_parameters_2.php">Variation of parameters 2</a></li>
 				</ul>
 				</li>
 			</ul>
