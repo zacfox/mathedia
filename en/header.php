@@ -93,6 +93,7 @@
 					<li><a href="/en/differential_equations/separation_of_variables_2.php">Separation of variables 2</a></li>
 					<li><a href="/en/differential_equations/variation_of_parameters_1.php">Variation of parameters 1</a></li>
 					<li><a href="/en/differential_equations/variation_of_parameters_2.php">Variation of parameters 2</a></li>
+					<li><a href="/en/differential_equations/linear_equation_constant_factors_1.php">Linear equation with constant factors 1</a></li>
 				</ul>
 				</li>
 			</ul>

@@ -7,7 +7,20 @@ include $_SERVER["DOCUMENT_ROOT"]."en/header.php";
 <div class="container">
 <div class="row">
 
-<div class="col-xs-10">
+<div class="col-sm-2">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Mathedia Responsive -->
+	<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-4504580659323549"
+		 data-ad-slot="9051615914"
+		 data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+
+<div class="col-sm-8">
 
 <h1>Variation of parameters 1</h1>
 
@@ -42,9 +55,19 @@ $$\begin{align*}y &amp;= K(x)\cdot e^{3x} \\\\ &amp;= ((x-1)\cdot e^x +C)\cdot e
 
 </div>
 
-<div class="col-xs-2">
+<div class="col-sm-2">
 
-<a href="/de/differentialgleichungen/variation_der_konstanten_1.php" class="btn btn-primary btn-xs">Deutsch</a><br />
+<a href="/de/differentialgleichungen/variation_der_konstanten_1.php" class="btn btn-primary btn-xs">Deutsch</a><br /><br />
+
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Mathedia Large Sky -->
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:300px;height:600px"
+				 data-ad-client="ca-pub-4504580659323549"
+				 data-ad-slot="7782445511"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 
 </div>
 

@@ -29,6 +29,12 @@ Differentialgleichungen werden oft verwendet, um das &Auml;nderungsverhalten von
 	<a href="/de/differentialgleichungen/variation_der_konstanten_2.php" class="btn btn-primary">y' = -(y/x) + 1</a>
 </div>
 
+<h2>Lineare Gleichung mit konstanten Koeffizienten</h2>
+
+<div class="btn-group-vertical">
+	<a href="/de/differentialgleichungen/lineare_gleichung_konstanter_koeffizient_1.php" class="btn btn-primary">y'' -5y'+6y=exp(-2x)</a>
+</div>
+
 </div>
 
 <div class="col-xs-2">

@@ -28,6 +28,12 @@ Differential equations are used to describe processes in nature involving varyin
 	<a href="/en/differential_equations/variation_of_parameters_2.php" class="btn btn-primary">y' = -(y/x) + 1</a>
 </div>
 
+<h2>Linear equations with constant factors</h2>
+
+<div class="btn-group-vertical">
+	<a href="/en/differential_equations/linear_equation_constant_factors_1.php" class="btn btn-primary">y'' -5y'+6y=exp(-2x)</a>
+</div>
+
 </div>
 
 <div class="col-xs-2">

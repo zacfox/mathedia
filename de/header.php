@@ -93,6 +93,7 @@
 					<li><a href="/de/differentialgleichungen/trennung_der_variablen_2.php">Trennung der Variablen 2</a></li>
 					<li><a href="/de/differentialgleichungen/variation_der_konstanten_1.php">Variation der Konstanten 1</a></li>
 					<li><a href="/de/differentialgleichungen/variation_der_konstanten_2.php">Variation der Konstanten 2</a></li>
+					<li><a href="/de/differentialgleichungen/lineare_gleichung_konstanter_koeffizient_1.php">Lineare Gleichung mit konstantem Koeffizient 1</a></li>
 				</ul>
 				</li>
 			</ul>

@@ -7,7 +7,20 @@ include $_SERVER["DOCUMENT_ROOT"]."de/header.php";
 <div class="container">
 <div class="row">
 
-<div class="col-xs-10">
+<div class="col-sm-2">
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+	<!-- Mathedia Responsive -->
+	<ins class="adsbygoogle"
+		 style="display:block"
+		 data-ad-client="ca-pub-4504580659323549"
+		 data-ad-slot="9051615914"
+		 data-ad-format="auto"></ins>
+	<script>
+	(adsbygoogle = window.adsbygoogle || []).push({});
+	</script>
+</div>
+
+<div class="col-sm-8">
 
 <h1>Trennung der Variablen 1</h1>
 
@@ -46,10 +59,17 @@ $$x(t)=\tan(t-\frac{\pi}{2})$$<br />
 
 </div>
 
-<div class="col-xs-2">
-
-<a href="/en/differential_equations/separation_of_variables_1.php" class="btn btn-primary btn-xs">English</a><br />
-
+<div class="col-sm-2">
+	<a href="/en/differential_equations/separation_of_variables_1.php" class="btn btn-primary btn-xs">English</a><br /><br />
+			<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+			<!-- Mathedia Large Sky -->
+			<ins class="adsbygoogle"
+				 style="display:inline-block;width:300px;height:600px"
+				 data-ad-client="ca-pub-4504580659323549"
+				 data-ad-slot="7782445511"></ins>
+			<script>
+			(adsbygoogle = window.adsbygoogle || []).push({});
+			</script>
 </div>
 
 </div>
